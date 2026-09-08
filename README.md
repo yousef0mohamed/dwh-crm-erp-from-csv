@@ -12,7 +12,7 @@ The project follows the **Medallion Architecture**, which organizes the data pla
 
 **Bronze → Silver → Gold**
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/Data_Architecture.png)
 
 ### 🥉 Bronze Layer — Raw Data
 
