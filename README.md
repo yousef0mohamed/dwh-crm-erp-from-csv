@@ -147,28 +147,6 @@ This documentation helps explain how the data moves through the warehouse and ho
 
 ---
 
-# 📊 Analytics & Reporting
-
-After completing the data warehouse, SQL-based analytical queries are used to generate business insights.
-
-The analysis focuses primarily on:
-
-### 👥 Customer Analysis
-
-Understanding customer behavior and purchasing patterns.
-
-### 📦 Product Analysis
-
-Evaluating product performance and identifying important product-level metrics.
-
-### 💰 Sales Analysis
-
-Analyzing sales performance and identifying trends across the available data.
-
-These analyses transform the warehouse data into useful information that can support business decisions.
-
----
-
 # 📂 Repository Structure
 
 ```text
@@ -274,7 +252,6 @@ Through this project, I gained practical experience in:
 * Cleaning and integrating data from multiple sources
 * Designing dimensional models
 * Building a Star Schema
-* Writing analytical SQL queries
 * Implementing data quality checks
 * Documenting a complete data warehouse project
 * Managing a data project using Git and GitHub
